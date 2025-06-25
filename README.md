@@ -1,4 +1,4 @@
-# AW HR Dashboard
+# AdventureWorks HR Insights
 
 <details>
 <summary>📂 Project Structure</summary>
