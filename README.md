@@ -9,7 +9,7 @@
   The Power BI Desktop file containing all visuals, measures, and model.  
 - **Images/**  
   Company logo.  
-- **_aw_hr_dashboard_pdf.pdf**  
+- **_aw_hr_dashboard.pdf**  
   A printable guide with screenshots of each report page and explanations of every KPI, chart, and DAX formula.  
 - **Dashboard Guide.pptx**  
   Guide to navigate the dashboard.  
