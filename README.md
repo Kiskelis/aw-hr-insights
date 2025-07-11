@@ -8,7 +8,7 @@
 - **_aw_hr_dashboard.pbix**  
   The Power BI Desktop file containing all visuals, measures, and model.  
 - **Images/**  
-  Company logo.  
+  Company logo and dashboard screenshots.  
 - **_aw_hr_dashboard.pdf**  
   A printable guide with screenshots of each report page and explanations of every KPI, chart, and DAX formula.  
 - **Dashboard Guide.pptx**  
@@ -36,7 +36,13 @@ While sharpening my Power BI and data-analysis skills, I chose to build my first
 - **Implemented** dynamic filtering with slicers and tooltips (hover over a name to see the employee’s photo!).  
 - **Learned** best practices in performance, UX, and storytelling with data.
 
-This “AW HR Dashboard” is the product of many late-night experiments, a few head-scratching DAX puzzles, and ultimately a lot of fun exploring HR analytics-from hire dates to hourly rates.
+This “AW HR Dashboard” is the product of many late-night experiments, a few head-scratching DAX puzzles, and ultimately a lot of fun exploring HR analytics—from hire dates to hourly rates.
+
+<div align="center">
+ <img src="hr_dashboard/Images/hrforgit.png"       alt="HR Dashboard Sample" width="45%" />
+ <img src="hr_dashboard/Images/employeeforgit.png" alt="Employee Overview" width="45%" style="margin-right: 2%;" />
+ 
+</div>
 
 ---
 
