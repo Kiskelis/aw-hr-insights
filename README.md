@@ -51,7 +51,6 @@ This “AW HR Dashboard” is the product of many late-night experiments, a few 
 Building this dashboard taught me to:
 
 - Tackle **inactive relationships** with `USERELATIONSHIP`.  
-- Calculate “**as-of**” metrics (e.g. latest rate per employee) with `LASTNONBLANKVALUE`.  
 - Use **row-context** in Power Query to generate dynamic image URLs.  
 - Balance aesthetic polish with performance tuning.
 
